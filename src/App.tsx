@@ -181,7 +181,7 @@ export default function App() {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <h2 className="mt-4 text-xl font-bold">Raka Yanuar F</h2>
+              <h2 className="mt-4 text-xl font-bold">Raka Yanuar Firdaus</h2>
               <div className="flex items-center mt-1 text-green-600 text-sm font-medium">
                 <CheckCircle className="w-4 h-4 mr-1" />
                 <span>Available for Hire</span>
@@ -205,7 +205,7 @@ export default function App() {
 
             <div className="pt-6 text-center">
               <p className="text-sm leading-relaxed text-gray-600">
-                I am Raka Yanuar F, focusing on UI/UX Design and Graphic Design based in Karawang.
+                I am Raka Yanuar Firdaus, focusing on UI/UX Design and Graphic Design based in Karawang.
                 Passionately creating modern and functional digital experiences.
               </p>
               <div className="flex items-center justify-center space-x-6 mt-6 text-gray-600">
@@ -385,7 +385,7 @@ export default function App() {
           
           <footer className="w-full py-12 border-t border-gray-200 text-center">
             <p className="text-gray-400 text-xs uppercase tracking-widest">
-              © 2026 Raka Yanuar F
+              © 2026 Raka Yanuar Firdaus
             </p>
           </footer>
         </div>
